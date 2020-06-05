@@ -1,0 +1,5 @@
+# channel access token
+CHANNEL_ACCESS_TOKEN = "YOUR_CHANNEL_ACCESS_TOKEN"
+
+# channel secret
+CHANNEL_SECRET = "YOUR_CHANNEL_SECRET"
