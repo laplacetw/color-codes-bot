@@ -9,3 +9,6 @@ The minimum average Euclidean distance between foundation makeup colors and face
 
 ## color codes reference
 [Estee Lauder Double Wear Stay-in-Place Makeup](https://www.esteelauder.com/product/643/22830/product-catalog/makeup/face/foundation/double-wear/stay-in-place-makeup)
+
+## icon
+Thanks for [Icons8](https://icons8.com/)
